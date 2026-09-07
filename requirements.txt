@@ -1,0 +1,6 @@
+deepagents
+langchain-ollama
+langchain_tavily
+requests
+pandas
+yfinance
